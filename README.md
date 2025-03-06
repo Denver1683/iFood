@@ -32,8 +32,8 @@
 ## 🚀 Installation Guide
 ### **1️⃣ Clone the Repository**
 ```sh
-git clone https://github.com/yourusername/iFood-iOS.git
-cd iFood-iOS
+git clone https://github.com/Denver1683/iFood.git
+cd iFood
 ```
 
 ### **2️⃣ Open the Project**
@@ -75,7 +75,7 @@ Firebase is required for **authentication & data storage**.
 ---
 
 ## 📄 License
-This project is **for educational purposes only**. Unauthorized redistribution or commercial use is strictly prohibited.
+This project is **for educational purposes and my personal portfolio only**. Unauthorized redistribution or commercial use is strictly prohibited.
 
 🚀 **Happy Coding!**
 
